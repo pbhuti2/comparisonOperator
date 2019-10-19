@@ -3,8 +3,7 @@ For this assignment you should read the task, then below the task do what it ask
 EXAMPLE TASK:
 '''
 #EX) Check if 4 is equal to 5 and store the answer in variable a
-from warnings import catch_warnings
-from builtins import True
+
 a = (4==5)
 print(a)
 '''
@@ -65,8 +64,8 @@ q = (o>p)
 #  ) that in variable s, finally check if r is greater than or equal to s and store the
 #  ) answer in t
 r = (96**(1/2))
-s = ((8.6)**2))
-t = (r>=p))
+s = ((8.6)**(2))
+t = ((r>=p))
 '''
 For the next section, you will be reading comparison statements and determining their answer
 EXAMPLE:
